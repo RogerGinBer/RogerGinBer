@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there! Roger here 🙌
+
+I'm Roger Giné Bertomeu, a Metabolomics Software Developer at the [Metabolomics Platform](http://metabolomicsplatform.com/) and [IISPV](http://www.iispv.cat/en_index.html).
+
+I've been working on [RHermes](https://github.com/RogerGinBer/RHermes) since Summer 2019.
+
+- 💻 I’m working on bringing RHermes to the public.
+- 🎓 I’m learning advanced R Shiny and some Python to spice things up with RHermes
 
 <!--
 **RogerGinBer/RogerGinBer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
