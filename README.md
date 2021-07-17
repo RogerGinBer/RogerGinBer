@@ -1,6 +1,6 @@
 ### Hi there! Roger here 🙌
 
-I'm Roger Giné Bertomeu, a Metabolomics Software Developer at the [Metabolomics Platform](http://metabolomicsplatform.com/) and [IISPV](http://www.iispv.cat/en_index.html).
+I'm [Roger Giné Bertomeu](https://orcid.org/0000-0003-0288-9619), a Metabolomics Software Developer at the [Metabolomics Platform](http://metabolomicsplatform.com/) and [IISPV](http://www.iispv.cat/en_index.html).
 
 I've been working on [RHermes](https://github.com/RogerGinBer/RHermes) since Summer 2019.
 
