@@ -1,11 +1,6 @@
-### Hi there! Roger here 🙌
+### Hi there! 🙌
 
-I'm [Roger Giné Bertomeu](https://orcid.org/0000-0003-0288-9619), a Metabolomics Software Developer at the [Metabolomics Platform](http://metabolomicsplatform.com/) and [IISPV](http://www.iispv.cat/en_index.html).
-
-I've been working on [RHermes](https://github.com/RogerGinBer/RHermes) since Summer 2019.
-
-- 💻 I’m working on bringing RHermes to the public.
-- 🎓 I’m learning advanced R Shiny and some Python to spice things up with RHermes
+I'm [Roger Giné Bertomeu](https://orcid.org/0000-0003-0288-9619), a Metabolomics PhD student at MIL@B.
 
 <!--
 **RogerGinBer/RogerGinBer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
